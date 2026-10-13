@@ -26,6 +26,7 @@ export const site: SiteConfig = {
       { src: "/images/post-6.jpg", alt: "Bling square nail set" },
       { src: "/images/post-7.jpg", alt: "Leopard and cherry nail art" },
     ],
+    primaryCta: { label: "DM to book", href: "https://ig.me/m/lavishlotus.beauty" },
     secondaryCta: { label: "See the work", href: "#gallery" },
   },
 
